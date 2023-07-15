@@ -1,10 +1,20 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-<a href="https://ahmadsa.netlify.app"><img src="https://img.shields.io/badge/-Saifurrohman-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ahmadsa0402"><img src="https://img.shields.io/badge/-Ahmad%20Saifurrohman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ahmad.saifurrohman03@gmail.com"><img src="https://img.shields.io/badge/-ahmad.saifurrohman03@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/ahmad_saifur"><img src="https://img.shields.io/badge/-@ahmad_saifur-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://ahmadsa.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Saifurrohman-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ahmadsa0402" target="_blank">
+    <img src="https://img.shields.io/badge/-Ahmad%20Saifurrohman-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ahmad.saifurrohman03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-ahmad.saifurrohman03@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ahmad_saifur" target="_blank">
+    <img src="https://img.shields.io/badge/-@ahmad_saifur-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
+</p>
+
 
 <!--
 <a href="https://ahmadsa.myid"><img src="https://img.shields.io/badge/-ahmadsa.myid-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
