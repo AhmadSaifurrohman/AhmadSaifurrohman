@@ -13,7 +13,6 @@
   <a href="https://instagram.com/ahmad_saifur" target="_blank">
     <img src="https://img.shields.io/badge/-@ahmad_saifur-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   </a>
-</p>
 
 
 <!--
